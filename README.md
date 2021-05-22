@@ -2,6 +2,7 @@
 COVID-19 
 
 Deliverables:
+
 A-  Come to class prepared to provide orally a brief (2 -3 minute) description of the problem 
 you intend to address, the sources of the data, and any problems you foresee (just you 
 talking - no visual aids). Also, by noon on that day put the problem description posting on 
