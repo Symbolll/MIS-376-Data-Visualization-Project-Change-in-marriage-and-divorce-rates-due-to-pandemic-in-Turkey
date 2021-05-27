@@ -1,13 +1,13 @@
 I will get the data from ;
-https://covid19.saglik.gov.tr  
-https://covid19asi.saglik.gov.tr/ 
+https://data.tuik.gov.tr/
+https://data.tuik.gov.tr/Bulten/Index?p=Evlenme-ve-Bosanma-Istatistikleri-2020-37211
+https://tuikweb.tuik.gov.tr/PreHaberBultenleri.do?id=33708
 and related news sites.
 
 The data I need;
-Total number of vaccines supplied,
-Population in the provinces,
-Age range of vaccination (priority),
-Also Number of People Administered 1st and 2nd Doses
+How many people got married in 2019 and 2020,
+How many people were divorced in 2019 and 2020.
+
 
 The problems I may experience are related to the accuracy of the data. 
-For example, does everybody get their vaccine, does the amount supposed to be supplied reach the country?
+
