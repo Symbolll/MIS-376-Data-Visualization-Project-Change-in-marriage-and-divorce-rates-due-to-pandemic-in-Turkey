@@ -1,28 +1,35 @@
-# MIS-376-Data-Visualization-Project.
-COVID-19 
+# The change in marriage and divorce rates due to the pandemic in Turkey
+## Part A: Introduction:
+*Along with the restrictions imposed due to the Covid 19 virus, which affected the whole world, significant differences occurred between the marriage and divorce statistics of people for various reasons. 
+Marriage and divorce statistics for the years 2019-2020 were used to compare these differences with the graphs..
+In this research, we will cover the following under the title of 2019 - 2020 marriage and divorce statistics;*
 
-Deliverables:
+* Number of couples married in 2019 - 2020,
+* The number of couples divorced between 2019 and 2020,
+* Number of marriages by months (2019, 2020),
+* Number of divorces by months (2019, 2020),
+* 10 provinces with the highest and lowest crude marriage rate, (2020)
+* 10 provinces with the highest and lowest crude divorce rates, (2020)
 
-A-  Come to class prepared to provide orally a brief (2 -3 minute) description of the problem 
-you intend to address, the sources of the data, and any problems you foresee (just you 
-talking - no visual aids). Also, by noon on that day put the problem description posting on 
-your GitHub page.
+## Identify the problem:
+*The family is one of the leading social institutions that emerged within the framework of certain common goals and interests. The existence and continuity of the family institution is provided through marriage. However, as a result of disagreements that occur from time to time, these marriages end in divorce.
+In our country, statistics are kept every year and the reasons for the change in statistics are investigated. However, these changes (decreases) in the last few years are attributed to the current pandemic.*
 
-B-  Make an entry on your GitHub page describing the data you will require for your project. 
-Where are you getting it from, what challenges are you facing in preparing it, how much 
-data is it? How many files? (Due by noon on day of class).
+## The Story Of Problem:
+*The story of my problem is the effect of the restrictions imposed due to the pandemic on the marriage and divorce rates of couples. Let's take an example of the problem, couples who want to get married cannot get a wedding day due to restrictions, want to do their wedding without any restrictions, simply not wanting to wear a mask at their wedding, are among the reasons for the decrease in marriage rates in 2020 compared to 2019.
+If we talk about divorce, the couples thinking that they can't manage this marriage by spending more time with each other due to restrictions and the negative effects of the pandemic on human psychology and health are among the reasons for divorce, but people cannot find the opportunity because the cases are postponed due to restrictions.
+As a result, in this study, we will discuss the change in marriage and divorce rates in Turkey due to the pandemic.*
 
-C-  Be prepared to give a rough run through of your project. It need not be completed, but the 
-final deliverable will benefit from class feedback.
+# Part B: Information About Data:
+## Visualization Tools:
+*I chose to use the Infogram tool because this tool is free and easy to use. There are also many different graphics inside.*
+https://infogram.com/
 
-D-  Prepare a “slide” presentation of no more than 10 slides that tells your story - including 
-your five produced visuals (which you are encouraged to enhance with other tools).
+## Data Gathering:
+*In order to visualize the data, I created the data by preparing an excel file from the relevant sites and then added it as a data set. Below are the sites where I get the data.*
 
-E-  Deliver a presentation to the class of that story using those slides.
-
-F-  Also, prepare and turn in a 500-1,000 word description of the process you followed with 
-particular attention to the source of your data, how you obtained and cleaned it, any 
-challenges you had to overcome along the way, and the imagined audience that you have 
-prepared and tailored your presentation for, as well as any design choices you made given 
-your intended audience. Make it clear what your objective is: are you informing or are you 
-selling?
+## References:
+* https://data.tuik.gov.tr/
+* https://data.tuik.gov.tr/Bulten/Index?p=Evlenme-ve-Bosanma-Istatistikleri-2020-37211
+* https://tuikweb.tuik.gov.tr/PreHaberBultenleri.do?id=33708
+* Related news sites.
