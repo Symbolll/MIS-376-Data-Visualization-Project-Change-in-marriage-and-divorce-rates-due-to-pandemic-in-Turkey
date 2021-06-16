@@ -1,4 +1,8 @@
 # The change in marriage and divorce rates due to the pandemic in Turkey
+
+##Video Presentation:
+https://drive.google.com/file/d/1NPoN13RAXUeENFP3E2Z37eH3ga_cRQLS/view?usp=sharing
+
 ## Part A: Introduction:
 *Along with the restrictions imposed due to the Covid 19 virus, which affected the whole world, significant differences occurred between the marriage and divorce statistics of people for various reasons. 
 Marriage and divorce statistics for the years 2019-2020 were used to compare these differences with the graphs..
